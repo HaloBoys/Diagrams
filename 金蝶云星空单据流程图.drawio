@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T08:39:09.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="rXqUGMeg6XNO-ERFLaFs" version="21.3.5" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-16T08:41:02.845Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="tVXfZAqCY2xkeikFdp0U" version="21.3.5" type="github" pages="2">
   <diagram name="第 1 页" id="UQDCYLyBeS_srTcuu-f5">
     <mxGraphModel dx="2829" dy="1589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
@@ -133,7 +133,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="f9GqkGlvSnTU6qT-WgLi" name="第 2 页">
-    <mxGraphModel dx="2829" dy="1589" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
+    <mxGraphModel dx="3167" dy="1787" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1600" pageHeight="900" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -253,16 +253,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tqO0-opugptmeYov7A0--36" value="发货通知单" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="-415" width="120" height="60" as="geometry" />
+          <mxGeometry x="-415" y="73" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqO0-opugptmeYov7A0--37" value="" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="tqO0-opugptmeYov7A0--38" target="tqO0-opugptmeYov7A0--39">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="tqO0-opugptmeYov7A0--38" value="销售出库单" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-415" y="133" width="120" height="60" as="geometry" />
+          <mxGeometry x="-415" y="242" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqO0-opugptmeYov7A0--39" value="应收单" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-413" y="277" width="120" height="60" as="geometry" />
+          <mxGeometry x="-415" y="423" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="tqO0-opugptmeYov7A0--40" value="委外用料清单列表【自动审核】" style="whiteSpace=wrap;html=1;fontSize=16;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="271" y="-124" width="120" height="60" as="geometry" />
